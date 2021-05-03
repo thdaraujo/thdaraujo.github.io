@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.thd.codes/posts/hello-world/</loc>
+    <lastmod>2021-05-01T12:44:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/posts/</loc>
+    <lastmod>2021-05-01T12:44:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/</loc>
+    <lastmod>2021-05-01T12:44:40-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.thd.codes/categories/</loc>
   </url>
   
   <url>
     <loc>https://www.thd.codes/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/</loc>
   </url>
   
 </urlset>
