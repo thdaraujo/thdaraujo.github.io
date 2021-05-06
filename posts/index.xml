@@ -6,14 +6,15 @@
     <description>Recent content in Posts on Thiago Araujo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 May 2021 12:44:40 -0700</lastBuildDate><atom:link href="https://www.thd.codes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 13:32:34 -0700</lastBuildDate><atom:link href="https://www.thd.codes/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>https://www.thd.codes/posts/hello-world/</link>
-      <pubDate>Sat, 01 May 2021 12:44:40 -0700</pubDate>
+      <title>How should I change production data on a new Rails application?</title>
+      <link>https://www.thd.codes/posts/rails-data-migrations/</link>
+      <pubDate>Tue, 13 Apr 2021 13:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/hello-world/</guid>
-      <description>hello world</description>
+      <guid>https://www.thd.codes/posts/rails-data-migrations/</guid>
+      <description>You might be spending a lot of time asking yourself these questions:
+ What is the proper way to change data in production? Should I run data and schema modifications in one database migration? Should I run rake scripts in production to modify data? Should I use a specialized data migration gem?  Some people will tell you that changing data with a database migration is an anti-pattern and migrations should only contain schema changes.</description>
     </item>
     
   </channel>

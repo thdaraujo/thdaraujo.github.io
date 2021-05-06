@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thiago Araujo</title>
-    <link>https://www.thd.codes/</link>
-    <description>Recent content on Thiago Araujo</description>
+    <title>data migration on Thiago Araujo</title>
+    <link>https://www.thd.codes/tags/data-migration/</link>
+    <description>Recent content in data migration on Thiago Araujo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Apr 2021 13:32:34 -0700</lastBuildDate><atom:link href="https://www.thd.codes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 13:32:34 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/data-migration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How should I change production data on a new Rails application?</title>
       <link>https://www.thd.codes/posts/rails-data-migrations/</link>
