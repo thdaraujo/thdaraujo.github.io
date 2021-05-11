@@ -19,5 +19,14 @@ You might be spending a lot of time asking yourself these questions:
  Is there a proper rails way to change data in production? Should I run data and schema modifications in one database migration? Should I run rake scripts in production to modify data?</description>
     </item>
     
+    <item>
+      <title>Search</title>
+      <link>https://www.thd.codes/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thd.codes/search/</guid>
+      <description>search</description>
+    </item>
+    
   </channel>
 </rss>
