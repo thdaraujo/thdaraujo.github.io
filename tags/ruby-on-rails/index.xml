@@ -6,7 +6,18 @@
     <description>Recent content in ruby on rails on ☄️ thd.codes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Apr 2021 13:32:34 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 13:52:50 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to pick your first Rails Issue and start contributing to Open-Source</title>
+      <link>https://www.thd.codes/posts/picking-a-rails-issue/</link>
+      <pubDate>Wed, 12 May 2021 13:52:50 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/posts/picking-a-rails-issue/</guid>
+      <description>Did you always want to help an open-source project like Ruby on Rails, but never got started?
+Many people have the interest of contributing to open-source, myself included. I&amp;rsquo;ve done a couple of small contributions, but nothing fancy.
+It&amp;rsquo;s a little intimidating, right? You&amp;rsquo;re not part of the group of contributors and you don&amp;rsquo;t really know where to start. You see 800 open issues, but which one should you pick?</description>
+    </item>
+    
     <item>
       <title>How should I change production data on a new Rails application?</title>
       <link>https://www.thd.codes/posts/rails-data-migrations/</link>

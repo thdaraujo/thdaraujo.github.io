@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source on ☄️ thd.codes</title>
+    <link>https://www.thd.codes/tags/open-source/</link>
+    <description>Recent content in open source on ☄️ thd.codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 May 2021 13:52:50 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to pick your first Rails Issue and start contributing to Open-Source</title>
+      <link>https://www.thd.codes/posts/picking-a-rails-issue/</link>
+      <pubDate>Wed, 12 May 2021 13:52:50 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/posts/picking-a-rails-issue/</guid>
+      <description>Did you always want to help an open-source project like Ruby on Rails, but never got started?
+Many people have the interest of contributing to open-source, myself included. I&amp;rsquo;ve done a couple of small contributions, but nothing fancy.
+It&amp;rsquo;s a little intimidating, right? You&amp;rsquo;re not part of the group of contributors and you don&amp;rsquo;t really know where to start. You see 800 open issues, but which one should you pick?</description>
+    </item>
+    
+  </channel>
+</rss>
