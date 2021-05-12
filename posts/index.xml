@@ -19,5 +19,61 @@ You might be spending a lot of time asking yourself these questions:
  Is there a proper rails way to change data in production? Should I run data and schema modifications in one database migration? Should I run rake scripts in production to modify data?</description>
     </item>
     
+    <item>
+      <title>hexdevs podcast</title>
+      <link>https://www.thd.codes/posts/podcast/</link>
+      <pubDate>Wed, 17 Jul 2019 20:33:52 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/posts/podcast/</guid>
+      <description>My wife and I are launching the greatest podcast in the world and a new site called hexdevs!
+We&amp;rsquo;ll talk about how to start a business, and how to get better at your craft.
+We want everyone to be more confident, successful, and smarter, so if you want to become an awesome dev, listen to our podcast and sign up for the mailing list!
+And stay tuned!</description>
+    </item>
+    
+    <item>
+      <title>Generic JDBC Queries on EMR Zeppelin</title>
+      <link>https://www.thd.codes/posts/jdbc-on-emr-zeppelin/</link>
+      <pubDate>Wed, 03 Apr 2019 11:23:42 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/posts/jdbc-on-emr-zeppelin/</guid>
+      <description>The EMR (Elastic Map Reduce) service on Amazon has some nice packages that come pre-installed, and one of them is Apache Zeppelin, which is a Jupyter Notebook interface for Spark.
+Zeppelin has interpreters for spark, pyspark, spark-sql and others, but if you want to run spark-sql code on a PostgreSQL database, you need first to install the JDBC interpreter and add some extra configuration to Zeppelin.
+The JDBC adapter supports a wide variety of database engines, and it allows you to configure multiple database connections, which makes data exploration much easier.</description>
+    </item>
+    
+    <item>
+      <title>Fast ElasticSearch Indexing with Apache Spark on EMR (overview)</title>
+      <link>https://www.thd.codes/posts/elasticsearch-indexing-with-spark-overview/</link>
+      <pubDate>Thu, 06 Sep 2018 18:00:37 +0000</pubDate>
+      
+      <guid>https://www.thd.codes/posts/elasticsearch-indexing-with-spark-overview/</guid>
+      <description>I&amp;rsquo;ve been building the data infrastructure for a project and I needed to efficiently query, merge, process and clean terabytes of structured data and then index hundreds of millions of documents on elasticsearch.
+The problem is that querying and joining data on a RDBMS like Postgres is very painful when you have more than low terabytes of data. You&amp;rsquo;re going to spend a huge amount of time tuning your database, reading query plans, adding indexes, sharding, and slowly moving data around until you have something decent that take hours, days, maybe weeks to run.</description>
+    </item>
+    
+    <item>
+      <title>Machinations</title>
+      <link>https://www.thd.codes/posts/machinations/</link>
+      <pubDate>Thu, 06 Sep 2018 13:36:37 +0000</pubDate>
+      
+      <guid>https://www.thd.codes/posts/machinations/</guid>
+      <description>An interesting quote about the unexpected effects of actions and the limitations of rationality and the planning fallacy:
+ A net set up to catch fish may snare a duck; a mantis hunting an insect may itself be set upon by a sparrow.
+  Machinations are hidden within machinations; changes arise beyond changes. So how can wit and cleverness be relied upon?
+ &amp;ndash; Back to Beginnings, Reflections on the Tao by Huanchu Daoren, translated by Thomas Cleary.</description>
+    </item>
+    
+    <item>
+      <title>Collatz Conjecture</title>
+      <link>https://www.thd.codes/posts/collatz-conjecture/</link>
+      <pubDate>Thu, 15 Oct 2015 15:00:22 +0000</pubDate>
+      
+      <guid>https://www.thd.codes/posts/collatz-conjecture/</guid>
+      <description>The Collatz Conjecture is a simple mathematical problem that still has no formal proof. So it&amp;rsquo;s an open problem.
+This is how it works:
+Choose any positive integer x. While x &amp;gt; 0, do: if x is even, divide it by 2 (x = x/2) if x is odd, multiply it by 3 and add 1 (x = 3x + 1) The Collatz Conjecture states that no matter what value of x you start with, the sequence will always reach x = 1.</description>
+    </item>
+    
   </channel>
 </rss>

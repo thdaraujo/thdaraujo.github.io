@@ -14,7 +14,7 @@
   
   <url>
     <loc>https://www.thd.codes/posts/</loc>
-    <lastmod>2021-05-11T15:17:11-07:00</lastmod>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
   </url>
   
   <url>
@@ -24,7 +24,7 @@
   
   <url>
     <loc>https://www.thd.codes/tags/ruby/</loc>
-    <lastmod>2021-05-11T15:17:11-07:00</lastmod>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
   </url>
   
   <url>
@@ -34,12 +34,77 @@
   
   <url>
     <loc>https://www.thd.codes/tags/</loc>
-    <lastmod>2021-05-11T15:17:11-07:00</lastmod>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.thd.codes/</loc>
-    <lastmod>2021-05-11T15:17:11-07:00</lastmod>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/posts/podcast/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/tags/podcast/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/tags/big-data/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/posts/jdbc-on-emr-zeppelin/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/tags/spark/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/tags/spark-sql/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/tags/zeppelin/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/posts/elasticsearch-indexing-with-spark-overview/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/posts/machinations/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/tags/collatz/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/posts/collatz-conjecture/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/tags/haskell/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/tags/math/</loc>
+    <lastmod>2021-05-11T22:38:45-07:00</lastmod>
   </url>
   
   <url>

@@ -43,5 +43,77 @@
       <description></description>
     </item>
     
+    <item>
+      <title>podcast</title>
+      <link>https://www.thd.codes/tags/podcast/</link>
+      <pubDate>Wed, 17 Jul 2019 20:33:52 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big data</title>
+      <link>https://www.thd.codes/tags/big-data/</link>
+      <pubDate>Wed, 03 Apr 2019 11:23:42 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spark</title>
+      <link>https://www.thd.codes/tags/spark/</link>
+      <pubDate>Wed, 03 Apr 2019 11:23:42 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/tags/spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spark-sql</title>
+      <link>https://www.thd.codes/tags/spark-sql/</link>
+      <pubDate>Wed, 03 Apr 2019 11:23:42 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/tags/spark-sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zeppelin</title>
+      <link>https://www.thd.codes/tags/zeppelin/</link>
+      <pubDate>Wed, 03 Apr 2019 11:23:42 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/tags/zeppelin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collatz</title>
+      <link>https://www.thd.codes/tags/collatz/</link>
+      <pubDate>Thu, 15 Oct 2015 15:00:22 +0000</pubDate>
+      
+      <guid>https://www.thd.codes/tags/collatz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>haskell</title>
+      <link>https://www.thd.codes/tags/haskell/</link>
+      <pubDate>Thu, 15 Oct 2015 15:00:22 +0000</pubDate>
+      
+      <guid>https://www.thd.codes/tags/haskell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://www.thd.codes/tags/math/</link>
+      <pubDate>Thu, 15 Oct 2015 15:00:22 +0000</pubDate>
+      
+      <guid>https://www.thd.codes/tags/math/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

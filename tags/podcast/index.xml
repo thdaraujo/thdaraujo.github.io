@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcast on ☄️ thd.codes</title>
+    <link>https://www.thd.codes/tags/podcast/</link>
+    <description>Recent content in podcast on ☄️ thd.codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jul 2019 20:33:52 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hexdevs podcast</title>
+      <link>https://www.thd.codes/posts/podcast/</link>
+      <pubDate>Wed, 17 Jul 2019 20:33:52 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/posts/podcast/</guid>
+      <description>My wife and I are launching the greatest podcast in the world and a new site called hexdevs!
+We&amp;rsquo;ll talk about how to start a business, and how to get better at your craft.
+We want everyone to be more confident, successful, and smarter, so if you want to become an awesome dev, listen to our podcast and sign up for the mailing list!
+And stay tuned!</description>
+    </item>
+    
+  </channel>
+</rss>

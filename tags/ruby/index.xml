@@ -19,5 +19,16 @@ You might be spending a lot of time asking yourself these questions:
  Is there a proper rails way to change data in production? Should I run data and schema modifications in one database migration? Should I run rake scripts in production to modify data?</description>
     </item>
     
+    <item>
+      <title>Collatz Conjecture</title>
+      <link>https://www.thd.codes/posts/collatz-conjecture/</link>
+      <pubDate>Thu, 15 Oct 2015 15:00:22 +0000</pubDate>
+      
+      <guid>https://www.thd.codes/posts/collatz-conjecture/</guid>
+      <description>The Collatz Conjecture is a simple mathematical problem that still has no formal proof. So it&amp;rsquo;s an open problem.
+This is how it works:
+Choose any positive integer x. While x &amp;gt; 0, do: if x is even, divide it by 2 (x = x/2) if x is odd, multiply it by 3 and add 1 (x = 3x + 1) The Collatz Conjecture states that no matter what value of x you start with, the sequence will always reach x = 1.</description>
+    </item>
+    
   </channel>
 </rss>

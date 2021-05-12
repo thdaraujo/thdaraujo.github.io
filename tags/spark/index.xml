@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spark on ☄️ thd.codes</title>
+    <link>https://www.thd.codes/tags/spark/</link>
+    <description>Recent content in spark on ☄️ thd.codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Apr 2019 11:23:42 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/spark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generic JDBC Queries on EMR Zeppelin</title>
+      <link>https://www.thd.codes/posts/jdbc-on-emr-zeppelin/</link>
+      <pubDate>Wed, 03 Apr 2019 11:23:42 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/posts/jdbc-on-emr-zeppelin/</guid>
+      <description>The EMR (Elastic Map Reduce) service on Amazon has some nice packages that come pre-installed, and one of them is Apache Zeppelin, which is a Jupyter Notebook interface for Spark.
+Zeppelin has interpreters for spark, pyspark, spark-sql and others, but if you want to run spark-sql code on a PostgreSQL database, you need first to install the JDBC interpreter and add some extra configuration to Zeppelin.
+The JDBC adapter supports a wide variety of database engines, and it allows you to configure multiple database connections, which makes data exploration much easier.</description>
+    </item>
+    
+    <item>
+      <title>Fast ElasticSearch Indexing with Apache Spark on EMR (overview)</title>
+      <link>https://www.thd.codes/posts/elasticsearch-indexing-with-spark-overview/</link>
+      <pubDate>Thu, 06 Sep 2018 18:00:37 +0000</pubDate>
+      
+      <guid>https://www.thd.codes/posts/elasticsearch-indexing-with-spark-overview/</guid>
+      <description>I&amp;rsquo;ve been building the data infrastructure for a project and I needed to efficiently query, merge, process and clean terabytes of structured data and then index hundreds of millions of documents on elasticsearch.
+The problem is that querying and joining data on a RDBMS like Postgres is very painful when you have more than low terabytes of data. You&amp;rsquo;re going to spend a huge amount of time tuning your database, reading query plans, adding indexes, sharding, and slowly moving data around until you have something decent that take hours, days, maybe weeks to run.</description>
+    </item>
+    
+  </channel>
+</rss>
