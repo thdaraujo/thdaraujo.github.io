@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webpack on ☄️ thd.codes</title>
+    <link>https://www.thd.codes/tags/webpack/</link>
+    <description>Recent content in webpack on ☄️ thd.codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 May 2021 10:13:18 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/webpack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Examples on How to Remove Sprockets From a Rails Application</title>
+      <link>https://www.thd.codes/posts/how-to-remove-sprockets-from-rails/</link>
+      <pubDate>Mon, 24 May 2021 10:13:18 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/posts/how-to-remove-sprockets-from-rails/</guid>
+      <description>You want to add bootstrap, or jquery, or react, or any other javascript library/tool/framework the cool kids are using now to your Rails App. 🕶️
+You search for a tutorial. First, they tell you to import some file on javascript/application.js.
+Later, you come accross another tutorial that tells you to use Webpacker.
+Eventually, you realize that Rails 6 comes both with Sprockets AND Webpacker set up by default. 🤯
+In case you don&amp;rsquo;t know, Sprockets and Webpacker are two completely different ways to compile and serve static assets.</description>
+    </item>
+    
+  </channel>
+</rss>
