@@ -8,16 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 24 May 2021 10:13:18 -0700</lastBuildDate><atom:link href="https://www.thd.codes/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Examples on How to Remove Sprockets From a Rails Application</title>
-      <link>https://www.thd.codes/posts/how-to-remove-sprockets-from-rails/</link>
+      <title>Move From Sprockets to Webpacker On Small to Large Rails Apps</title>
+      <link>https://www.thd.codes/posts/from-sprockets-to-webpacker/</link>
       <pubDate>Mon, 24 May 2021 10:13:18 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/how-to-remove-sprockets-from-rails/</guid>
-      <description>You want to add bootstrap, or jquery, or react, or any other javascript library/tool/framework the cool kids are using now to your Rails App. 🕶️
-You search for a tutorial. First, they tell you to import some file on javascript/application.js.
-Later, you come accross another tutorial that tells you to use Webpacker.
-Eventually, you realize that Rails 6 comes both with Sprockets AND Webpacker set up by default. 🤯
-In case you don&amp;rsquo;t know, Sprockets and Webpacker are two completely different ways to compile and serve static assets.</description>
+      <guid>https://www.thd.codes/posts/from-sprockets-to-webpacker/</guid>
+      <description>Rails 6 comes with Sprockets and Webpacker by default. Confusing, right?
+The default configuration is Webpacker for Javascript while Sprockets takes care of all the rest (CSS, images, fonts&amp;hellip;).
+Let me tell you a secret: You don&amp;rsquo;t need both. Just use Webpacker.
+ Legacy applications and older gems still use Sprockets to serve assets. This was done to add backwards compatibility. If you don&amp;rsquo;t have a good reason to keep Sprockets around, don&amp;rsquo;t.</description>
     </item>
     
     <item>
