@@ -6,13 +6,49 @@
     <description>Recent content in Tags on thd.codes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 May 2021 10:13:18 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 10:32:34 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>javascript</title>
+      <link>https://www.thd.codes/tags/javascript/</link>
+      <pubDate>Sat, 05 Jun 2021 10:32:34 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rails</title>
+      <link>https://www.thd.codes/tags/rails/</link>
+      <pubDate>Sat, 05 Jun 2021 10:32:34 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/tags/rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>https://www.thd.codes/tags/ruby/</link>
+      <pubDate>Sat, 05 Jun 2021 10:32:34 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ruby on rails</title>
       <link>https://www.thd.codes/tags/ruby-on-rails/</link>
-      <pubDate>Mon, 24 May 2021 10:13:18 -0700</pubDate>
+      <pubDate>Sat, 05 Jun 2021 10:32:34 -0700</pubDate>
       
       <guid>https://www.thd.codes/tags/ruby-on-rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wepback</title>
+      <link>https://www.thd.codes/tags/wepback/</link>
+      <pubDate>Sat, 05 Jun 2021 10:32:34 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/tags/wepback/</guid>
       <description></description>
     </item>
     
@@ -49,24 +85,6 @@
       <pubDate>Tue, 13 Apr 2021 13:32:34 -0700</pubDate>
       
       <guid>https://www.thd.codes/tags/data-migration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rails</title>
-      <link>https://www.thd.codes/tags/rails/</link>
-      <pubDate>Tue, 13 Apr 2021 13:32:34 -0700</pubDate>
-      
-      <guid>https://www.thd.codes/tags/rails/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ruby</title>
-      <link>https://www.thd.codes/tags/ruby/</link>
-      <pubDate>Tue, 13 Apr 2021 13:32:34 -0700</pubDate>
-      
-      <guid>https://www.thd.codes/tags/ruby/</guid>
       <description></description>
     </item>
     
