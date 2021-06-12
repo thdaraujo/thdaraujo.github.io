@@ -19,14 +19,15 @@ I see a lot of people battling against Webpacker whenever they need to add a new
     </item>
     
     <item>
-      <title>&#34;Adding Bootstrap or Javascript Sprinkles to Rails breaks everything. What should I do?&#34;</title>
+      <title>Adding Bootstrap or Javascript Sprinkles to Rails breaks everything. What should you do?</title>
       <link>https://www.thd.codes/posts/rails-and-webpack-pain/</link>
       <pubDate>Fri, 04 Jun 2021 10:32:34 -0700</pubDate>
       
       <guid>https://www.thd.codes/posts/rails-and-webpack-pain/</guid>
       <description>Did you spend a billion hours trying to add jQuery, or Bootstrap, or Tailwind to your Rails project, but now everything on the frontend is broken?
 Or worse: you can&amp;rsquo;t even tell whether the frontend is broken or not. It&amp;rsquo;s in a unkown state of brokenness.
-Should you just wait until an angry customer complains about the checkout button not working anymore to know which page to fix? Probably not!</description>
+Maybe you just want some javascript sprinkles, but Webpacker makes things so much harder and frustrating.
+Should you just wait until an angry customer complains about the checkout button not working anymore to know which page to fix?</description>
     </item>
     
   </channel>
