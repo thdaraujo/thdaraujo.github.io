@@ -6,7 +6,19 @@
     <description>Recent content on thd.codes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jun 2021 11:53:56 -0700</lastBuildDate><atom:link href="https://www.thd.codes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jun 2021 13:00:00 -0700</lastBuildDate><atom:link href="https://www.thd.codes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Ruby on Rails Best Practices With One Exercise</title>
+      <link>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</link>
+      <pubDate>Wed, 30 Jun 2021 13:00:00 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</guid>
+      <description>You want to write smooth professional-loooking code.
+You&amp;rsquo;re craving some squeaky-clean code. But all you have for lunch every day is a big bowl of legacy spaghetti code.
+You consider yourself a decent developer, but you&amp;rsquo;re never sure how to organize a project. How to name things. Where some piece of business logic should live.
+How can you become a Ruby on Rails expert if the code you read everyday stinks?</description>
+    </item>
+    
     <item>
       <title>How to Write a Clean Order By Case Query with Arel on Rails</title>
       <link>https://www.thd.codes/posts/how-to-write-order-by-case-query-with-arel/</link>
