@@ -6,7 +6,19 @@
     <description>Recent content in best practices on thd.codes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jun 2021 13:00:00 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Aug 2021 11:00:52 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Learn the Syntax of a Programming Language When You Know How to Code</title>
+      <link>https://www.thd.codes/posts/how-to-learn-programming-language-syntax/</link>
+      <pubDate>Tue, 10 Aug 2021 11:00:52 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/posts/how-to-learn-programming-language-syntax/</guid>
+      <description>Are you having a hard time picking up the syntax of a new programming language, even though you know how to code?
+You&amp;rsquo;re new to Ruby, and people say it&amp;rsquo;s an easy language, but you find the syntax difficult to understand.
+You know a bit of Javascript, Python, Java, or any other language. But Ruby seems like alien technology to you.
+By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your knowledge of [INSERT PROGRAMMING LANGUAGE HERE] to Ruby.</description>
+    </item>
+    
     <item>
       <title>Learn Ruby on Rails Best Practices With One Exercise</title>
       <link>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</link>
