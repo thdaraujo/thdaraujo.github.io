@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.thd.codes/tags/development/</loc>
+    <lastmod>2021-09-17T14:07:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/posts/new-job-new-codebase-how-to-get-started/</loc>
+    <lastmod>2021-09-17T14:07:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/posts/</loc>
+    <lastmod>2021-09-17T14:07:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/tags/ruby/</loc>
+    <lastmod>2021-09-17T14:07:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/tags/</loc>
+    <lastmod>2021-09-17T14:07:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/</loc>
+    <lastmod>2021-09-17T14:07:58-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.thd.codes/tags/best-practices/</loc>
     <lastmod>2021-08-24T18:25:00-07:00</lastmod>
   </url>
@@ -13,32 +43,12 @@
   </url>
   
   <url>
-    <loc>https://www.thd.codes/posts/</loc>
-    <lastmod>2021-08-24T18:25:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/tags/ruby/</loc>
-    <lastmod>2021-08-24T18:25:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.thd.codes/tags/ruby-on-rails/</loc>
     <lastmod>2021-08-24T18:25:00-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.thd.codes/tags/software-design/</loc>
-    <lastmod>2021-08-24T18:25:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/tags/</loc>
-    <lastmod>2021-08-24T18:25:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/</loc>
     <lastmod>2021-08-24T18:25:00-07:00</lastmod>
   </url>
   
@@ -170,6 +180,10 @@
   <url>
     <loc>https://www.thd.codes/tags/math/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thd.codes/posts/this-is-a-little-story-about-my-first-su/</loc>
   </url>
   
   <url>

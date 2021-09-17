@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on thd.codes</title>
+    <link>https://www.thd.codes/tags/development/</link>
+    <description>Recent content in development on thd.codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Sep 2021 11:34:52 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New job, new codebase. How do you get started?</title>
+      <link>https://www.thd.codes/posts/new-job-new-codebase-how-to-get-started/</link>
+      <pubDate>Fri, 17 Sep 2021 11:34:52 -0700</pubDate>
+      
+      <guid>https://www.thd.codes/posts/new-job-new-codebase-how-to-get-started/</guid>
+      <description>One of my readers asked:
+ How do you get started when you join a new company? How do you add features to a codebase that is massive, scary, and completely new to you?
+ The first day at your new developer job is just like the first day at a new school. 🚸
+A sea of stranger&amp;rsquo;s faces watching your every move. Unfamiliar smells in the hallway.
+Every chair is uncomfortable and makes weird noises when you sit.</description>
+    </item>
+    
+  </channel>
+</rss>
