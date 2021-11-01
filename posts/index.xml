@@ -170,16 +170,5 @@ This is how it works:
 Choose any positive integer x. While x &amp;gt; 0, do: if x is even, divide it by 2 (x = x/2) if x is odd, multiply it by 3 and add 1 (x = 3x + 1) The Collatz Conjecture states that no matter what value of x you start with, the sequence will always reach x = 1.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://www.thd.codes/posts/this-is-a-little-story-about-my-first-su/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.thd.codes/posts/this-is-a-little-story-about-my-first-su/</guid>
-      <description>This is a little story about my first super nintendo console, and how I became a smuggler (of videogames) just to get what I wanted.
-I wanted to share this fun and short story to let members of the group know a bit more about myself, my family, and my love for computers and videogames.
- When I was 7 years old in 1992, I had a simple dream: I wanted a Super Nintendo console for my birthday.</description>
-    </item>
-    
   </channel>
 </rss>
