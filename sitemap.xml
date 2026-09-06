@@ -3,201 +3,201 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.thd.codes/tags/development/</loc>
+    <loc>https://thdaraujo.github.io/tags/development/</loc>
     <lastmod>2021-11-17T10:57:09-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/posts/</loc>
+    <loc>https://thdaraujo.github.io/posts/</loc>
+    <lastmod>2026-09-06T12:59:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/tags/</loc>
+    <lastmod>2026-09-06T12:59:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/</loc>
+    <lastmod>2026-09-06T12:59:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/posts/what-to-do-when-you-get-tired-of-coding-and-developer-burnout/</loc>
     <lastmod>2021-11-17T10:57:09-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/</loc>
-    <lastmod>2021-11-17T10:57:09-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/</loc>
-    <lastmod>2021-11-17T10:57:09-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/posts/what-to-do-when-you-get-tired-of-coding-and-developer-burnout/</loc>
-    <lastmod>2021-11-17T10:57:09-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/posts/new-job-new-codebase-how-to-get-started/</loc>
+    <loc>https://thdaraujo.github.io/posts/new-job-new-codebase-how-to-get-started/</loc>
     <lastmod>2021-09-22T12:44:02-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/ruby/</loc>
-    <lastmod>2021-11-16T13:53:29-08:00</lastmod>
+    <loc>https://thdaraujo.github.io/tags/ruby/</loc>
+    <lastmod>2026-09-06T12:59:30-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/best-practices/</loc>
-    <lastmod>2021-08-24T18:25:00-07:00</lastmod>
+    <loc>https://thdaraujo.github.io/tags/best-practices/</loc>
+    <lastmod>2026-09-06T12:59:30-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/posts/how-to-learn-programming-language-syntax/</loc>
+    <loc>https://thdaraujo.github.io/posts/how-to-learn-programming-language-syntax/</loc>
     <lastmod>2021-08-10T15:18:24-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/ruby-on-rails/</loc>
+    <loc>https://thdaraujo.github.io/tags/ruby-on-rails/</loc>
+    <lastmod>2026-09-06T12:59:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/tags/software-design/</loc>
+    <lastmod>2026-09-06T12:59:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/posts/learn-ruby-best-practices-with-one-exercise/</loc>
+    <lastmod>2026-09-06T12:59:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/posts/how-to-write-order-by-case-query-with-arel/</loc>
+    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/tags/sql/</loc>
+    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/tags/javascript/</loc>
+    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/tags/webpack/</loc>
+    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/posts/how-to-learn-webpack/</loc>
+    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/posts/rails-and-webpack-pain/</loc>
+    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/posts/from-sprockets-to-webpacker/</loc>
+    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thdaraujo.github.io/tags/hexdevs/</loc>
     <lastmod>2021-10-31T15:21:33-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/software-design/</loc>
-    <lastmod>2021-08-24T18:25:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</loc>
-    <lastmod>2021-08-24T18:25:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/posts/how-to-write-order-by-case-query-with-arel/</loc>
-    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/tags/sql/</loc>
-    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/tags/javascript/</loc>
-    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/tags/webpack/</loc>
-    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/posts/how-to-learn-webpack/</loc>
-    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/posts/rails-and-webpack-pain/</loc>
-    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/posts/from-sprockets-to-webpacker/</loc>
-    <lastmod>2021-07-04T11:52:27-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/tags/hexdevs/</loc>
+    <loc>https://thdaraujo.github.io/posts/picking-a-rails-issue/</loc>
     <lastmod>2021-10-31T15:21:33-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/posts/picking-a-rails-issue/</loc>
+    <loc>https://thdaraujo.github.io/tags/open-source/</loc>
     <lastmod>2021-10-31T15:21:33-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/open-source/</loc>
-    <lastmod>2021-10-31T15:21:33-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thd.codes/tags/data-migration/</loc>
+    <loc>https://thdaraujo.github.io/tags/data-migration/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/posts/rails-data-migrations/</loc>
+    <loc>https://thdaraujo.github.io/posts/rails-data-migrations/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/posts/podcast/</loc>
+    <loc>https://thdaraujo.github.io/posts/podcast/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/podcast/</loc>
+    <loc>https://thdaraujo.github.io/tags/podcast/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/big-data/</loc>
+    <loc>https://thdaraujo.github.io/tags/big-data/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/posts/jdbc-on-emr-zeppelin/</loc>
+    <loc>https://thdaraujo.github.io/posts/jdbc-on-emr-zeppelin/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/spark/</loc>
+    <loc>https://thdaraujo.github.io/tags/spark/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/spark-sql/</loc>
+    <loc>https://thdaraujo.github.io/tags/spark-sql/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/zeppelin/</loc>
+    <loc>https://thdaraujo.github.io/tags/zeppelin/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/posts/elasticsearch-indexing-with-spark-overview/</loc>
+    <loc>https://thdaraujo.github.io/posts/elasticsearch-indexing-with-spark-overview/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/posts/machinations/</loc>
+    <loc>https://thdaraujo.github.io/posts/machinations/</loc>
     <lastmod>2021-07-04T11:52:27-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/collatz/</loc>
+    <loc>https://thdaraujo.github.io/tags/collatz/</loc>
     <lastmod>2021-11-16T13:53:29-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/posts/collatz-conjecture/</loc>
+    <loc>https://thdaraujo.github.io/posts/collatz-conjecture/</loc>
     <lastmod>2021-11-16T13:53:29-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/haskell/</loc>
+    <loc>https://thdaraujo.github.io/tags/haskell/</loc>
     <lastmod>2021-11-16T13:53:29-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/tags/math/</loc>
+    <loc>https://thdaraujo.github.io/tags/math/</loc>
     <lastmod>2021-11-16T13:53:29-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/about/</loc>
-    <lastmod>2022-05-06T18:29:24-07:00</lastmod>
+    <loc>https://thdaraujo.github.io/about/</loc>
+    <lastmod>2026-09-06T12:59:30-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/categories/</loc>
+    <loc>https://thdaraujo.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.thd.codes/search/</loc>
+    <loc>https://thdaraujo.github.io/search/</loc>
     <lastmod>2021-05-11T16:14:03-07:00</lastmod>
   </url>
   

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on thd.codes</title>
-    <link>https://www.thd.codes/posts/</link>
-    <description>Recent content in Posts on thd.codes</description>
+    <title>Posts on Thiago Araujo</title>
+    <link>https://thdaraujo.github.io/posts/</link>
+    <description>Recent content in Posts on Thiago Araujo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 09:38:37 -0700</lastBuildDate><atom:link href="https://www.thd.codes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Nov 2021 09:38:37 -0700</lastBuildDate><atom:link href="https://thdaraujo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What should you do when you get tired of coding?</title>
-      <link>https://www.thd.codes/posts/what-to-do-when-you-get-tired-of-coding-and-developer-burnout/</link>
+      <link>https://thdaraujo.github.io/posts/what-to-do-when-you-get-tired-of-coding-and-developer-burnout/</link>
       <pubDate>Wed, 17 Nov 2021 09:38:37 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/what-to-do-when-you-get-tired-of-coding-and-developer-burnout/</guid>
+      <guid>https://thdaraujo.github.io/posts/what-to-do-when-you-get-tired-of-coding-and-developer-burnout/</guid>
       <description>Someone asked me:
  &amp;ldquo;What should you do when you lose the enthusiasm for coding?&amp;rdquo;
  I got tired of working as a software developer 3 or 4 times in my career. Maybe more. I had burnouts as well, and I didn&amp;rsquo;t even know what burnout was until a couple of years ago. 😆
@@ -21,10 +21,10 @@ Losing the enthusiasm for coding can be normal: it&amp;rsquo;s hard to do the sa
     
     <item>
       <title>New job, new codebase. How do you even get started?</title>
-      <link>https://www.thd.codes/posts/new-job-new-codebase-how-to-get-started/</link>
+      <link>https://thdaraujo.github.io/posts/new-job-new-codebase-how-to-get-started/</link>
       <pubDate>Fri, 17 Sep 2021 11:34:52 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/new-job-new-codebase-how-to-get-started/</guid>
+      <guid>https://thdaraujo.github.io/posts/new-job-new-codebase-how-to-get-started/</guid>
       <description>One of my readers asked:
  How do you get started when you join a new company? How do you add features to a codebase that is massive, scary, and completely new to you?
  The first day at your new developer job is just like the first day at a new school. 🚸
@@ -34,10 +34,10 @@ Every chair is uncomfortable and makes weird noises when you sit.</description>
     
     <item>
       <title>How to Learn the Syntax of a Programming Language When You Know How to Code</title>
-      <link>https://www.thd.codes/posts/how-to-learn-programming-language-syntax/</link>
+      <link>https://thdaraujo.github.io/posts/how-to-learn-programming-language-syntax/</link>
       <pubDate>Tue, 10 Aug 2021 11:00:52 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/how-to-learn-programming-language-syntax/</guid>
+      <guid>https://thdaraujo.github.io/posts/how-to-learn-programming-language-syntax/</guid>
       <description>Are you having a hard time picking up the syntax of a new programming language, even though you know how to code?
 You&amp;rsquo;re new to Ruby, and people say it&amp;rsquo;s an easy language, but you find the syntax difficult to understand.
 You know a bit of Javascript, Python, Java, or any other language. But Ruby seems like alien technology to you.
@@ -46,10 +46,10 @@ By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your 
     
     <item>
       <title>Learn Ruby on Rails Best Practices With One Exercise</title>
-      <link>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</link>
+      <link>https://thdaraujo.github.io/posts/learn-ruby-best-practices-with-one-exercise/</link>
       <pubDate>Wed, 30 Jun 2021 13:00:00 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</guid>
+      <guid>https://thdaraujo.github.io/posts/learn-ruby-best-practices-with-one-exercise/</guid>
       <description>You want to write smooth professional-looking code.
 You&amp;rsquo;re craving some squeaky-clean code. But all you have for lunch every day is a big bowl of legacy spaghetti code.
 You consider yourself a decent developer, but you&amp;rsquo;re never sure how to organize a project. How to name things. Where some piece of business logic should live.
@@ -58,10 +58,10 @@ How can you become a Ruby on Rails expert if the code you read every day stinks?
     
     <item>
       <title>How to Write a Clean Order By Case Query with Arel on Rails</title>
-      <link>https://www.thd.codes/posts/how-to-write-order-by-case-query-with-arel/</link>
+      <link>https://thdaraujo.github.io/posts/how-to-write-order-by-case-query-with-arel/</link>
       <pubDate>Thu, 10 Jun 2021 11:53:56 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/how-to-write-order-by-case-query-with-arel/</guid>
+      <guid>https://thdaraujo.github.io/posts/how-to-write-order-by-case-query-with-arel/</guid>
       <description>You&amp;rsquo;re working on a feature and someone tells you that one of your models needs to be ordered based on some complicated rule. You realize you&amp;rsquo;ll need to write a complex order by query&amp;hellip;
 Here&amp;rsquo;s how it usually goes:
  You think to yourself: &amp;ldquo;Should I write an order by case when statement? Maybe I&amp;rsquo;ll just add a little bit of SQL&amp;hellip;&amp;quot; Two minutes later, you end up with a bunch of nested case when statements, subqueries, common table expressions, angry statements, shouting, and a whole lot of tears.</description>
@@ -69,10 +69,10 @@ Here&amp;rsquo;s how it usually goes:
     
     <item>
       <title>What&#39;s the Best Way to Learn Webpack?</title>
-      <link>https://www.thd.codes/posts/how-to-learn-webpack/</link>
+      <link>https://thdaraujo.github.io/posts/how-to-learn-webpack/</link>
       <pubDate>Sat, 05 Jun 2021 10:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/how-to-learn-webpack/</guid>
+      <guid>https://thdaraujo.github.io/posts/how-to-learn-webpack/</guid>
       <description>If you&amp;rsquo;re feeling lost whenever you have to add some javascript library to your Rails application, this post is for you!
 I see a lot of people battling against Webpacker whenever they need to add a new javascript library or have to fix a bug on the asset pipeline. I suffered from the same problems, too. I talked about why this happens on a previous post:
 &amp;ldquo;Adding Bootstrap or Javascript Sprinkles to Rails breaks everything.</description>
@@ -80,10 +80,10 @@ I see a lot of people battling against Webpacker whenever they need to add a new
     
     <item>
       <title>Adding Bootstrap or Javascript Sprinkles to Rails breaks everything. What should you do?</title>
-      <link>https://www.thd.codes/posts/rails-and-webpack-pain/</link>
+      <link>https://thdaraujo.github.io/posts/rails-and-webpack-pain/</link>
       <pubDate>Fri, 04 Jun 2021 10:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/rails-and-webpack-pain/</guid>
+      <guid>https://thdaraujo.github.io/posts/rails-and-webpack-pain/</guid>
       <description>Did you spend a billion hours trying to add jQuery, or Bootstrap, or Tailwind to your Rails project, but now everything on the frontend is broken?
 Or worse: you can&amp;rsquo;t even tell whether the frontend is broken or not. It&amp;rsquo;s in a unkown state of brokenness.
 Maybe you just want some javascript sprinkles, but Webpacker makes things so much harder and frustrating.
@@ -92,10 +92,10 @@ Do you wait until an angry customer complains about the checkout button not work
     
     <item>
       <title>Move From Sprockets to Webpacker On Small to Large Rails Apps</title>
-      <link>https://www.thd.codes/posts/from-sprockets-to-webpacker/</link>
+      <link>https://thdaraujo.github.io/posts/from-sprockets-to-webpacker/</link>
       <pubDate>Mon, 24 May 2021 10:13:18 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/from-sprockets-to-webpacker/</guid>
+      <guid>https://thdaraujo.github.io/posts/from-sprockets-to-webpacker/</guid>
       <description>Rails 6 comes with Sprockets and Webpacker by default. Confusing, right?
 The default configuration is Webpacker for Javascript while Sprockets takes care of all the rest (CSS, images, fonts&amp;hellip;).
 Let me tell you a secret: You don&amp;rsquo;t need both. Just use Webpacker.
@@ -104,10 +104,10 @@ Let me tell you a secret: You don&amp;rsquo;t need both. Just use Webpacker.
     
     <item>
       <title>How to pick your first Rails Issue and start contributing to Open-Source</title>
-      <link>https://www.thd.codes/posts/picking-a-rails-issue/</link>
+      <link>https://thdaraujo.github.io/posts/picking-a-rails-issue/</link>
       <pubDate>Wed, 12 May 2021 13:52:50 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/picking-a-rails-issue/</guid>
+      <guid>https://thdaraujo.github.io/posts/picking-a-rails-issue/</guid>
       <description>Did you always want to help an open-source project like Ruby on Rails, but never got started?
 Many people have the interest of contributing to open-source, myself included. I&amp;rsquo;ve done a couple of small contributions, but nothing fancy.
 It&amp;rsquo;s a little intimidating, right? You&amp;rsquo;re not part of the group of contributors and you don&amp;rsquo;t really know where to start. You see 800 open issues, which one is a good one to pick?</description>
@@ -115,10 +115,10 @@ It&amp;rsquo;s a little intimidating, right? You&amp;rsquo;re not part of the gr
     
     <item>
       <title>How should I change production data on a new Rails application?</title>
-      <link>https://www.thd.codes/posts/rails-data-migrations/</link>
+      <link>https://thdaraujo.github.io/posts/rails-data-migrations/</link>
       <pubDate>Tue, 13 Apr 2021 13:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/rails-data-migrations/</guid>
+      <guid>https://thdaraujo.github.io/posts/rails-data-migrations/</guid>
       <description>You need to change production data. You know that doing it manually is unsafe and will definetely cause lots of trouble, like corrupting all you customer&amp;rsquo;s data.
 How else should you do it?
 You might be spending a lot of time asking yourself these questions:
@@ -127,10 +127,10 @@ You might be spending a lot of time asking yourself these questions:
     
     <item>
       <title>hexdevs podcast</title>
-      <link>https://www.thd.codes/posts/podcast/</link>
+      <link>https://thdaraujo.github.io/posts/podcast/</link>
       <pubDate>Wed, 17 Jul 2019 20:33:52 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/podcast/</guid>
+      <guid>https://thdaraujo.github.io/posts/podcast/</guid>
       <description>My wife and I are launching the greatest podcast in the world and a new site called hexdevs!
 We&amp;rsquo;ll talk about how to start a business, and how to get better at your craft.
 We want everyone to be more confident, successful, and smarter, so if you want to become an awesome dev, listen to our podcast and sign up for the mailing list!
@@ -140,10 +140,10 @@ And stay tuned!
     
     <item>
       <title>Generic JDBC Queries on EMR Zeppelin</title>
-      <link>https://www.thd.codes/posts/jdbc-on-emr-zeppelin/</link>
+      <link>https://thdaraujo.github.io/posts/jdbc-on-emr-zeppelin/</link>
       <pubDate>Wed, 03 Apr 2019 11:23:42 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/jdbc-on-emr-zeppelin/</guid>
+      <guid>https://thdaraujo.github.io/posts/jdbc-on-emr-zeppelin/</guid>
       <description>The EMR (Elastic Map Reduce) service on Amazon has some nice packages that come pre-installed, and one of them is Apache Zeppelin, which is a Jupyter Notebook interface for Spark.
 Zeppelin has interpreters for spark, pyspark, spark-sql and others, but if you want to run spark-sql code on a PostgreSQL database, you need first to install the JDBC interpreter and add some extra configuration to Zeppelin.
 The JDBC adapter supports a wide variety of database engines, and it allows you to configure multiple database connections, which makes data exploration much easier.</description>
@@ -151,20 +151,20 @@ The JDBC adapter supports a wide variety of database engines, and it allows you 
     
     <item>
       <title>Fast ElasticSearch Indexing with Apache Spark on EMR (overview)</title>
-      <link>https://www.thd.codes/posts/elasticsearch-indexing-with-spark-overview/</link>
+      <link>https://thdaraujo.github.io/posts/elasticsearch-indexing-with-spark-overview/</link>
       <pubDate>Thu, 06 Sep 2018 18:00:37 +0000</pubDate>
       
-      <guid>https://www.thd.codes/posts/elasticsearch-indexing-with-spark-overview/</guid>
+      <guid>https://thdaraujo.github.io/posts/elasticsearch-indexing-with-spark-overview/</guid>
       <description>I&amp;rsquo;ve been building the data infrastructure for a project and I needed to efficiently query, merge, process and clean terabytes of structured data and then index hundreds of millions of documents on elasticsearch.
 The problem is that querying and joining data on a RDBMS like Postgres is very painful when you have more than low terabytes of data. You&amp;rsquo;re going to spend a huge amount of time tuning your database, reading query plans, adding indexes, sharding, and slowly moving data around until you have something decent that take hours, days, maybe weeks to run.</description>
     </item>
     
     <item>
       <title>Machinations</title>
-      <link>https://www.thd.codes/posts/machinations/</link>
+      <link>https://thdaraujo.github.io/posts/machinations/</link>
       <pubDate>Thu, 06 Sep 2018 13:36:37 +0000</pubDate>
       
-      <guid>https://www.thd.codes/posts/machinations/</guid>
+      <guid>https://thdaraujo.github.io/posts/machinations/</guid>
       <description>An interesting quote about the unexpected effects of actions and the limitations of rationality and the planning fallacy:
  A net set up to catch fish may snare a duck; a mantis hunting an insect may itself be set upon by a sparrow.
   Machinations are hidden within machinations; changes arise beyond changes. So how can wit and cleverness be relied upon?
@@ -173,10 +173,10 @@ The problem is that querying and joining data on a RDBMS like Postgres is very p
     
     <item>
       <title>Collatz Conjecture</title>
-      <link>https://www.thd.codes/posts/collatz-conjecture/</link>
+      <link>https://thdaraujo.github.io/posts/collatz-conjecture/</link>
       <pubDate>Thu, 15 Oct 2015 15:00:22 +0000</pubDate>
       
-      <guid>https://www.thd.codes/posts/collatz-conjecture/</guid>
+      <guid>https://thdaraujo.github.io/posts/collatz-conjecture/</guid>
       <description>The Collatz Conjecture is a simple mathematical problem that still has no formal proof. So it&amp;rsquo;s an open problem.
 This is how it works:
 Choose any positive integer x. While x &amp;gt; 0, do: if x is even, divide it by 2 (x = x/2) if x is odd, multiply it by 3 and add 1 (x = 3x + 1) The Collatz Conjecture states that no matter what value of x you start with, the sequence will always reach x = 1.</description>

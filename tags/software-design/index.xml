@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>software design on thd.codes</title>
-    <link>https://www.thd.codes/tags/software-design/</link>
-    <description>Recent content in software design on thd.codes</description>
+    <title>software design on Thiago Araujo</title>
+    <link>https://thdaraujo.github.io/tags/software-design/</link>
+    <description>Recent content in software design on Thiago Araujo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2021 11:00:52 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/software-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Aug 2021 11:00:52 -0700</lastBuildDate><atom:link href="https://thdaraujo.github.io/tags/software-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Learn the Syntax of a Programming Language When You Know How to Code</title>
-      <link>https://www.thd.codes/posts/how-to-learn-programming-language-syntax/</link>
+      <link>https://thdaraujo.github.io/posts/how-to-learn-programming-language-syntax/</link>
       <pubDate>Tue, 10 Aug 2021 11:00:52 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/how-to-learn-programming-language-syntax/</guid>
+      <guid>https://thdaraujo.github.io/posts/how-to-learn-programming-language-syntax/</guid>
       <description>Are you having a hard time picking up the syntax of a new programming language, even though you know how to code?
 You&amp;rsquo;re new to Ruby, and people say it&amp;rsquo;s an easy language, but you find the syntax difficult to understand.
 You know a bit of Javascript, Python, Java, or any other language. But Ruby seems like alien technology to you.
@@ -21,10 +21,10 @@ By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your 
     
     <item>
       <title>Learn Ruby on Rails Best Practices With One Exercise</title>
-      <link>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</link>
+      <link>https://thdaraujo.github.io/posts/learn-ruby-best-practices-with-one-exercise/</link>
       <pubDate>Wed, 30 Jun 2021 13:00:00 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</guid>
+      <guid>https://thdaraujo.github.io/posts/learn-ruby-best-practices-with-one-exercise/</guid>
       <description>You want to write smooth professional-looking code.
 You&amp;rsquo;re craving some squeaky-clean code. But all you have for lunch every day is a big bowl of legacy spaghetti code.
 You consider yourself a decent developer, but you&amp;rsquo;re never sure how to organize a project. How to name things. Where some piece of business logic should live.

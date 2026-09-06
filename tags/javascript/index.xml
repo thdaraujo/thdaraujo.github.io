@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>javascript on thd.codes</title>
-    <link>https://www.thd.codes/tags/javascript/</link>
-    <description>Recent content in javascript on thd.codes</description>
+    <title>javascript on Thiago Araujo</title>
+    <link>https://thdaraujo.github.io/tags/javascript/</link>
+    <description>Recent content in javascript on Thiago Araujo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Jun 2021 10:32:34 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 10:32:34 -0700</lastBuildDate><atom:link href="https://thdaraujo.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What&#39;s the Best Way to Learn Webpack?</title>
-      <link>https://www.thd.codes/posts/how-to-learn-webpack/</link>
+      <link>https://thdaraujo.github.io/posts/how-to-learn-webpack/</link>
       <pubDate>Sat, 05 Jun 2021 10:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/how-to-learn-webpack/</guid>
+      <guid>https://thdaraujo.github.io/posts/how-to-learn-webpack/</guid>
       <description>If you&amp;rsquo;re feeling lost whenever you have to add some javascript library to your Rails application, this post is for you!
 I see a lot of people battling against Webpacker whenever they need to add a new javascript library or have to fix a bug on the asset pipeline. I suffered from the same problems, too. I talked about why this happens on a previous post:
 &amp;ldquo;Adding Bootstrap or Javascript Sprinkles to Rails breaks everything.</description>
@@ -20,10 +20,10 @@ I see a lot of people battling against Webpacker whenever they need to add a new
     
     <item>
       <title>Adding Bootstrap or Javascript Sprinkles to Rails breaks everything. What should you do?</title>
-      <link>https://www.thd.codes/posts/rails-and-webpack-pain/</link>
+      <link>https://thdaraujo.github.io/posts/rails-and-webpack-pain/</link>
       <pubDate>Fri, 04 Jun 2021 10:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/rails-and-webpack-pain/</guid>
+      <guid>https://thdaraujo.github.io/posts/rails-and-webpack-pain/</guid>
       <description>Did you spend a billion hours trying to add jQuery, or Bootstrap, or Tailwind to your Rails project, but now everything on the frontend is broken?
 Or worse: you can&amp;rsquo;t even tell whether the frontend is broken or not. It&amp;rsquo;s in a unkown state of brokenness.
 Maybe you just want some javascript sprinkles, but Webpacker makes things so much harder and frustrating.

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ruby on thd.codes</title>
-    <link>https://www.thd.codes/tags/ruby/</link>
-    <description>Recent content in ruby on thd.codes</description>
+    <title>ruby on Thiago Araujo</title>
+    <link>https://thdaraujo.github.io/tags/ruby/</link>
+    <description>Recent content in ruby on Thiago Araujo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Sep 2021 11:34:52 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 11:34:52 -0700</lastBuildDate><atom:link href="https://thdaraujo.github.io/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New job, new codebase. How do you even get started?</title>
-      <link>https://www.thd.codes/posts/new-job-new-codebase-how-to-get-started/</link>
+      <link>https://thdaraujo.github.io/posts/new-job-new-codebase-how-to-get-started/</link>
       <pubDate>Fri, 17 Sep 2021 11:34:52 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/new-job-new-codebase-how-to-get-started/</guid>
+      <guid>https://thdaraujo.github.io/posts/new-job-new-codebase-how-to-get-started/</guid>
       <description>One of my readers asked:
  How do you get started when you join a new company? How do you add features to a codebase that is massive, scary, and completely new to you?
  The first day at your new developer job is just like the first day at a new school. 🚸
@@ -22,10 +22,10 @@ Every chair is uncomfortable and makes weird noises when you sit.</description>
     
     <item>
       <title>How to Learn the Syntax of a Programming Language When You Know How to Code</title>
-      <link>https://www.thd.codes/posts/how-to-learn-programming-language-syntax/</link>
+      <link>https://thdaraujo.github.io/posts/how-to-learn-programming-language-syntax/</link>
       <pubDate>Tue, 10 Aug 2021 11:00:52 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/how-to-learn-programming-language-syntax/</guid>
+      <guid>https://thdaraujo.github.io/posts/how-to-learn-programming-language-syntax/</guid>
       <description>Are you having a hard time picking up the syntax of a new programming language, even though you know how to code?
 You&amp;rsquo;re new to Ruby, and people say it&amp;rsquo;s an easy language, but you find the syntax difficult to understand.
 You know a bit of Javascript, Python, Java, or any other language. But Ruby seems like alien technology to you.
@@ -34,10 +34,10 @@ By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your 
     
     <item>
       <title>Learn Ruby on Rails Best Practices With One Exercise</title>
-      <link>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</link>
+      <link>https://thdaraujo.github.io/posts/learn-ruby-best-practices-with-one-exercise/</link>
       <pubDate>Wed, 30 Jun 2021 13:00:00 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</guid>
+      <guid>https://thdaraujo.github.io/posts/learn-ruby-best-practices-with-one-exercise/</guid>
       <description>You want to write smooth professional-looking code.
 You&amp;rsquo;re craving some squeaky-clean code. But all you have for lunch every day is a big bowl of legacy spaghetti code.
 You consider yourself a decent developer, but you&amp;rsquo;re never sure how to organize a project. How to name things. Where some piece of business logic should live.
@@ -46,10 +46,10 @@ How can you become a Ruby on Rails expert if the code you read every day stinks?
     
     <item>
       <title>What&#39;s the Best Way to Learn Webpack?</title>
-      <link>https://www.thd.codes/posts/how-to-learn-webpack/</link>
+      <link>https://thdaraujo.github.io/posts/how-to-learn-webpack/</link>
       <pubDate>Sat, 05 Jun 2021 10:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/how-to-learn-webpack/</guid>
+      <guid>https://thdaraujo.github.io/posts/how-to-learn-webpack/</guid>
       <description>If you&amp;rsquo;re feeling lost whenever you have to add some javascript library to your Rails application, this post is for you!
 I see a lot of people battling against Webpacker whenever they need to add a new javascript library or have to fix a bug on the asset pipeline. I suffered from the same problems, too. I talked about why this happens on a previous post:
 &amp;ldquo;Adding Bootstrap or Javascript Sprinkles to Rails breaks everything.</description>
@@ -57,10 +57,10 @@ I see a lot of people battling against Webpacker whenever they need to add a new
     
     <item>
       <title>Adding Bootstrap or Javascript Sprinkles to Rails breaks everything. What should you do?</title>
-      <link>https://www.thd.codes/posts/rails-and-webpack-pain/</link>
+      <link>https://thdaraujo.github.io/posts/rails-and-webpack-pain/</link>
       <pubDate>Fri, 04 Jun 2021 10:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/rails-and-webpack-pain/</guid>
+      <guid>https://thdaraujo.github.io/posts/rails-and-webpack-pain/</guid>
       <description>Did you spend a billion hours trying to add jQuery, or Bootstrap, or Tailwind to your Rails project, but now everything on the frontend is broken?
 Or worse: you can&amp;rsquo;t even tell whether the frontend is broken or not. It&amp;rsquo;s in a unkown state of brokenness.
 Maybe you just want some javascript sprinkles, but Webpacker makes things so much harder and frustrating.
@@ -69,10 +69,10 @@ Do you wait until an angry customer complains about the checkout button not work
     
     <item>
       <title>How should I change production data on a new Rails application?</title>
-      <link>https://www.thd.codes/posts/rails-data-migrations/</link>
+      <link>https://thdaraujo.github.io/posts/rails-data-migrations/</link>
       <pubDate>Tue, 13 Apr 2021 13:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/rails-data-migrations/</guid>
+      <guid>https://thdaraujo.github.io/posts/rails-data-migrations/</guid>
       <description>You need to change production data. You know that doing it manually is unsafe and will definetely cause lots of trouble, like corrupting all you customer&amp;rsquo;s data.
 How else should you do it?
 You might be spending a lot of time asking yourself these questions:
@@ -81,10 +81,10 @@ You might be spending a lot of time asking yourself these questions:
     
     <item>
       <title>Collatz Conjecture</title>
-      <link>https://www.thd.codes/posts/collatz-conjecture/</link>
+      <link>https://thdaraujo.github.io/posts/collatz-conjecture/</link>
       <pubDate>Thu, 15 Oct 2015 15:00:22 +0000</pubDate>
       
-      <guid>https://www.thd.codes/posts/collatz-conjecture/</guid>
+      <guid>https://thdaraujo.github.io/posts/collatz-conjecture/</guid>
       <description>The Collatz Conjecture is a simple mathematical problem that still has no formal proof. So it&amp;rsquo;s an open problem.
 This is how it works:
 Choose any positive integer x. While x &amp;gt; 0, do: if x is even, divide it by 2 (x = x/2) if x is odd, multiply it by 3 and add 1 (x = 3x + 1) The Collatz Conjecture states that no matter what value of x you start with, the sequence will always reach x = 1.</description>

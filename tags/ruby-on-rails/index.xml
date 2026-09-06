@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ruby on rails on thd.codes</title>
-    <link>https://www.thd.codes/tags/ruby-on-rails/</link>
-    <description>Recent content in ruby on rails on thd.codes</description>
+    <title>ruby on rails on Thiago Araujo</title>
+    <link>https://thdaraujo.github.io/tags/ruby-on-rails/</link>
+    <description>Recent content in ruby on rails on Thiago Araujo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2021 11:00:52 -0700</lastBuildDate><atom:link href="https://www.thd.codes/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Aug 2021 11:00:52 -0700</lastBuildDate><atom:link href="https://thdaraujo.github.io/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Learn the Syntax of a Programming Language When You Know How to Code</title>
-      <link>https://www.thd.codes/posts/how-to-learn-programming-language-syntax/</link>
+      <link>https://thdaraujo.github.io/posts/how-to-learn-programming-language-syntax/</link>
       <pubDate>Tue, 10 Aug 2021 11:00:52 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/how-to-learn-programming-language-syntax/</guid>
+      <guid>https://thdaraujo.github.io/posts/how-to-learn-programming-language-syntax/</guid>
       <description>Are you having a hard time picking up the syntax of a new programming language, even though you know how to code?
 You&amp;rsquo;re new to Ruby, and people say it&amp;rsquo;s an easy language, but you find the syntax difficult to understand.
 You know a bit of Javascript, Python, Java, or any other language. But Ruby seems like alien technology to you.
@@ -21,10 +21,10 @@ By the end of this post, you&amp;rsquo;ll have a tool to help you transfer your 
     
     <item>
       <title>Learn Ruby on Rails Best Practices With One Exercise</title>
-      <link>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</link>
+      <link>https://thdaraujo.github.io/posts/learn-ruby-best-practices-with-one-exercise/</link>
       <pubDate>Wed, 30 Jun 2021 13:00:00 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/learn-ruby-best-practices-with-one-exercise/</guid>
+      <guid>https://thdaraujo.github.io/posts/learn-ruby-best-practices-with-one-exercise/</guid>
       <description>You want to write smooth professional-looking code.
 You&amp;rsquo;re craving some squeaky-clean code. But all you have for lunch every day is a big bowl of legacy spaghetti code.
 You consider yourself a decent developer, but you&amp;rsquo;re never sure how to organize a project. How to name things. Where some piece of business logic should live.
@@ -33,10 +33,10 @@ How can you become a Ruby on Rails expert if the code you read every day stinks?
     
     <item>
       <title>How to Write a Clean Order By Case Query with Arel on Rails</title>
-      <link>https://www.thd.codes/posts/how-to-write-order-by-case-query-with-arel/</link>
+      <link>https://thdaraujo.github.io/posts/how-to-write-order-by-case-query-with-arel/</link>
       <pubDate>Thu, 10 Jun 2021 11:53:56 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/how-to-write-order-by-case-query-with-arel/</guid>
+      <guid>https://thdaraujo.github.io/posts/how-to-write-order-by-case-query-with-arel/</guid>
       <description>You&amp;rsquo;re working on a feature and someone tells you that one of your models needs to be ordered based on some complicated rule. You realize you&amp;rsquo;ll need to write a complex order by query&amp;hellip;
 Here&amp;rsquo;s how it usually goes:
  You think to yourself: &amp;ldquo;Should I write an order by case when statement? Maybe I&amp;rsquo;ll just add a little bit of SQL&amp;hellip;&amp;quot; Two minutes later, you end up with a bunch of nested case when statements, subqueries, common table expressions, angry statements, shouting, and a whole lot of tears.</description>
@@ -44,10 +44,10 @@ Here&amp;rsquo;s how it usually goes:
     
     <item>
       <title>What&#39;s the Best Way to Learn Webpack?</title>
-      <link>https://www.thd.codes/posts/how-to-learn-webpack/</link>
+      <link>https://thdaraujo.github.io/posts/how-to-learn-webpack/</link>
       <pubDate>Sat, 05 Jun 2021 10:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/how-to-learn-webpack/</guid>
+      <guid>https://thdaraujo.github.io/posts/how-to-learn-webpack/</guid>
       <description>If you&amp;rsquo;re feeling lost whenever you have to add some javascript library to your Rails application, this post is for you!
 I see a lot of people battling against Webpacker whenever they need to add a new javascript library or have to fix a bug on the asset pipeline. I suffered from the same problems, too. I talked about why this happens on a previous post:
 &amp;ldquo;Adding Bootstrap or Javascript Sprinkles to Rails breaks everything.</description>
@@ -55,10 +55,10 @@ I see a lot of people battling against Webpacker whenever they need to add a new
     
     <item>
       <title>Adding Bootstrap or Javascript Sprinkles to Rails breaks everything. What should you do?</title>
-      <link>https://www.thd.codes/posts/rails-and-webpack-pain/</link>
+      <link>https://thdaraujo.github.io/posts/rails-and-webpack-pain/</link>
       <pubDate>Fri, 04 Jun 2021 10:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/rails-and-webpack-pain/</guid>
+      <guid>https://thdaraujo.github.io/posts/rails-and-webpack-pain/</guid>
       <description>Did you spend a billion hours trying to add jQuery, or Bootstrap, or Tailwind to your Rails project, but now everything on the frontend is broken?
 Or worse: you can&amp;rsquo;t even tell whether the frontend is broken or not. It&amp;rsquo;s in a unkown state of brokenness.
 Maybe you just want some javascript sprinkles, but Webpacker makes things so much harder and frustrating.
@@ -67,10 +67,10 @@ Do you wait until an angry customer complains about the checkout button not work
     
     <item>
       <title>Move From Sprockets to Webpacker On Small to Large Rails Apps</title>
-      <link>https://www.thd.codes/posts/from-sprockets-to-webpacker/</link>
+      <link>https://thdaraujo.github.io/posts/from-sprockets-to-webpacker/</link>
       <pubDate>Mon, 24 May 2021 10:13:18 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/from-sprockets-to-webpacker/</guid>
+      <guid>https://thdaraujo.github.io/posts/from-sprockets-to-webpacker/</guid>
       <description>Rails 6 comes with Sprockets and Webpacker by default. Confusing, right?
 The default configuration is Webpacker for Javascript while Sprockets takes care of all the rest (CSS, images, fonts&amp;hellip;).
 Let me tell you a secret: You don&amp;rsquo;t need both. Just use Webpacker.
@@ -79,10 +79,10 @@ Let me tell you a secret: You don&amp;rsquo;t need both. Just use Webpacker.
     
     <item>
       <title>How to pick your first Rails Issue and start contributing to Open-Source</title>
-      <link>https://www.thd.codes/posts/picking-a-rails-issue/</link>
+      <link>https://thdaraujo.github.io/posts/picking-a-rails-issue/</link>
       <pubDate>Wed, 12 May 2021 13:52:50 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/picking-a-rails-issue/</guid>
+      <guid>https://thdaraujo.github.io/posts/picking-a-rails-issue/</guid>
       <description>Did you always want to help an open-source project like Ruby on Rails, but never got started?
 Many people have the interest of contributing to open-source, myself included. I&amp;rsquo;ve done a couple of small contributions, but nothing fancy.
 It&amp;rsquo;s a little intimidating, right? You&amp;rsquo;re not part of the group of contributors and you don&amp;rsquo;t really know where to start. You see 800 open issues, which one is a good one to pick?</description>
@@ -90,10 +90,10 @@ It&amp;rsquo;s a little intimidating, right? You&amp;rsquo;re not part of the gr
     
     <item>
       <title>How should I change production data on a new Rails application?</title>
-      <link>https://www.thd.codes/posts/rails-data-migrations/</link>
+      <link>https://thdaraujo.github.io/posts/rails-data-migrations/</link>
       <pubDate>Tue, 13 Apr 2021 13:32:34 -0700</pubDate>
       
-      <guid>https://www.thd.codes/posts/rails-data-migrations/</guid>
+      <guid>https://thdaraujo.github.io/posts/rails-data-migrations/</guid>
       <description>You need to change production data. You know that doing it manually is unsafe and will definetely cause lots of trouble, like corrupting all you customer&amp;rsquo;s data.
 How else should you do it?
 You might be spending a lot of time asking yourself these questions:
